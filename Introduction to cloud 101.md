@@ -162,8 +162,10 @@ the following:
 - Reliability
 - Scalability
 - Low Cost
+  
+![Pasted image 20241215032502](https://github.com/user-attachments/assets/55cfbd14-f46e-4c18-9221-db9e8f578d26)
 
-![[Pasted image 20241215032502.png]]
+
 # Billing example
 - Amazon EC2
 	The service charges in this example include details for the following items:
@@ -173,7 +175,7 @@ the following:
 	• The length of time that Elastic Load Balancing has been used
 	In this example, all the usage amounts are under the thresholds in the AWS Free Tier. Therefore,
 	the account owner would not have to pay for any Amazon EC2 usage in this month.
-	![[Pasted image 20241215033303.png]]
+	![Pasted image 20241215033303](https://github.com/user-attachments/assets/6b928d99-adea-4f5e-b8dd-1aa4ec9dd3e8)
 - Amazon S3
 	For Amazon S3 pricing, consider the following cost components:
 	• Storage - You pay for only the storage that you use. You are charged the rate to
@@ -186,7 +188,7 @@ the following:
 	few exceptions.
 	• Management and replication - You pay for the storage management features that
 	you enabled on your account's Amazon SS buckets.
-	 ![[Pasted image 20241215033430.png]]
+	 ![Pasted image 20241215033430](https://github.com/user-attachments/assets/b81b6632-65c3-4b58-9617-1fc82fa64ab4)
 - Aws Lambda
 	For AWS Lambda, you are charged based on the number of requests for your
 	functions and the time that it takes for them to run.
@@ -196,7 +198,8 @@ the following:
 	Compute Savings Plan offers lower compute costs in exchange for committing to
 	a consistent amount of usage over a I-year or 3-year term. This plan is an
 	example of paying less when you reserve.
-	 ![[Pasted image 20241215033523.png]]
+	 ![Pasted image 20241215033523](https://github.com/user-attachments/assets/b91620ee-8b23-4cfd-bc68-102828db7f48)
+
 
 # Types of Services
 - Managed service
@@ -219,7 +222,7 @@ the following:
 	availability, and a pay-for-value billing model.
 
 Example Infrastructure:
-![[Pasted image 20241215035406.png]]
+![Pasted image 20241215035406](https://github.com/user-attachments/assets/fdb1f6b9-7586-4211-af93-9295808dda9e)
 
 # Basic qualification
 - Bachelor's degree or equivalent experience
