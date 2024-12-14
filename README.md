@@ -1,6 +1,6 @@
 # AWS EDUCATE 
 
-- [ ] [[Introduction to Cloud 101]]
+- [ ] [Introduction to Cloud 101]
     
 - [ ] Getting Started with Storage  
     
@@ -20,4 +20,4 @@
 
 
  - [ ] After Doing fill the Form given 
-       https://forms.gle/ftaF5WVW8SuVZbXA7
+       [submission link](https://forms.gle/ftaF5WVW8SuVZbXA7)
