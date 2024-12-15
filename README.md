@@ -1,8 +1,8 @@
 # AWS EDUCATE 
 
-- [ ] [Introduction to Cloud 101](https://github.com/kingsmen732/AWS-Educate/blob/main/Introduction%20to%20cloud%20101.md)
+- [x] [Introduction to Cloud 101](https://github.com/kingsmen732/AWS-Educate/blob/main/Introduction%20to%20cloud%20101.md)
     
-- [ ] Getting Started with Storage  
+- [x] [Getting Started with Storage](https://github.com/kingsmen732/AWS-Educate/blob/main/Getting%20Started%20with%20Storage.md)  
     
 - [ ] Getting Started with Compute  
     
