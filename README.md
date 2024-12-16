@@ -14,7 +14,7 @@
     
 - [x] [Getting Started with Serverless](https://github.com/kingsmen732/AWS-Educate/blob/main/Getting%20Started%20with%20Serverless.md)
     
-- [ ] Machine Learning Foundations  
+- [x] [Machine Learning Foundations](https://github.com/kingsmen732/AWS-Educate/blob/main/Machine%20Learning%20Foundations.md)
     
 - [ ] Introduction to Generative Artificial Intelligence
 
