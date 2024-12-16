@@ -6,7 +6,7 @@
     
 - [x] [Getting Started with Compute](https://github.com/kingsmen732/AWS-Educate/blob/main/Getting%20Started%20with%20Compute.md)
     
-- [ ] Getting Started with Networking  
+- [x] [Getting Started with Networking](https://github.com/kingsmen732/AWS-Educate/blob/main/Getting%20Started%20with%20Databases.md)  
     
 - [ ] Getting Started with Databases  
     
