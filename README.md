@@ -12,7 +12,7 @@
     
 - [x] [Getting Started with Security](https://github.com/kingsmen732/AWS-Educate/blob/main/Getting%20Started%20with%20Security.md)
     
-- [ ] Getting Started with Serverless  
+- [x] [Getting Started with Serverless](https://github.com/kingsmen732/AWS-Educate/blob/main/Getting%20Started%20with%20Serverless.md)
     
 - [ ] Machine Learning Foundations  
     
