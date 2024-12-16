@@ -18,6 +18,8 @@
     
 - [ ] Introduction to Generative Artificial Intelligence
 
+- [x] [Getting Started with Cloud Operations](https://github.com/kingsmen732/AWS-Educate/blob/main/Getting%20Started%20with%20Cloud%20Operations.md)
+
 
  - [ ] After Doing fill the Form given 
        [submission link](https://forms.gle/ftaF5WVW8SuVZbXA7)
