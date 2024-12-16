@@ -16,7 +16,7 @@
     
 - [x] [Machine Learning Foundations](https://github.com/kingsmen732/AWS-Educate/blob/main/Machine%20Learning%20Foundations.md)
     
-- [ ] Introduction to Generative Artificial Intelligence
+- [x] [Introduction to Generative Artificial Intelligence](https://github.com/kingsmen732/AWS-Educate/blob/main/Introduction%20to%20Generative%20Artificial%20Intelligence.md)
 
 - [x] [Getting Started with Cloud Operations](https://github.com/kingsmen732/AWS-Educate/blob/main/Getting%20Started%20with%20Cloud%20Operations.md)
 
