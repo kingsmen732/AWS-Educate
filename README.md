@@ -4,7 +4,7 @@
     
 - [x] [Getting Started with Storage](https://github.com/kingsmen732/AWS-Educate/blob/main/Getting%20Started%20with%20Storage.md)  
     
-- [ ] [Getting Started with Compute](https://github.com/kingsmen732/AWS-Educate/blob/main/Getting%20Started%20with%20Compute.md)
+- [x] [Getting Started with Compute](https://github.com/kingsmen732/AWS-Educate/blob/main/Getting%20Started%20with%20Compute.md)
     
 - [ ] Getting Started with Networking  
     
